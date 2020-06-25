@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>Estaciones</name>
+  <Placemark>
+      <Point><coordinates>-79.2372499091247,-3.93781753147364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.2180447050072,-3.9397358635855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.2035489369087,-3.94552328691552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.1886947325688,-3.95667859175462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.1655866471311,-3.95133684916149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.1630240429178,-4.03484411431942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.1715393328751,-4.04414073771902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.2006289958764,-4.04594212651077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.2012310733645,-4.06961803153838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.2005730488263,-3.980170328417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.1894178224684,-4.00456022256821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.2058151028651,-4.02895676158825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-79.2061963788016,-4.02754698259202</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
